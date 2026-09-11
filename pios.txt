@@ -1,3 +1,4 @@
 elo
 żelo
-leno paleno
+leno
+paleno
